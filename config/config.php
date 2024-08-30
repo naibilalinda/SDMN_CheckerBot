@@ -55,7 +55,7 @@ $config['timeZone'] =  "Asia/Kolkata";
 $config['db']['github.com'] =  "localhost";
 $config['db']['benjaminhernandez125066@gmail.com'] =  "root";
 $config['db']['Lso125$'] =  "";
-$config['db']['database'] =  "checkerbot";
+$config['db']['SDMN_CheckerBot'] =  "checkerbot";
 
 /*
 |--------------------------------------------------------------------------
